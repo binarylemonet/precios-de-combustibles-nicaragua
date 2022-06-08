@@ -1,0 +1,32 @@
+.c-container{border: 1px solid #EEEEEE;border-radius: 6px; margin-bottom: 12px;}
+.c-header {background-color: #FFFFFF;padding: 13px 13px 0px 13px;border-radius: 6px 6px 0px 0px;color: #333333;width: 100%;margin: 0 auto;}
+.c-title {margin: 0px;margin-top: 6px;margin-bottom: 0px;}
+.c-body{background-color: #FFFFFF;padding: 13px 13px 13px 13px;width: 100%;margin: 0 auto;}
+.c-footer{background-color: #F5F5F5;padding: 4px;border-radius: 0px 0px 4px 4px;width: 100%;margin: 0 auto;padding-left: 13px;padding-right: 13px;}
+.c-close{float: right;right: 15px;top: 15px;color: #333333;font-size: 17px;font-weight: normal;line-height: 10px;text-decoration: none;}
+.c-sub-title-1{margin: 0px;font-size: 13px;width: 70%;margin-top: 6px;padding-bottom: 0px;}
+.c-sub-title{margin: 0px;font-size: 13px;width: 70%;margin: 0px auto;}
+.c-small{font-size: 12px;}
+.c-table{width: 100%;margin-bottom: 10px;border: none !important;}
+.c-td-right{width: 35%;font-size: 15px;border: none !important;padding: 0px; padding-bottom: 2px;}
+.c-td-left{width: 55%;font-size: 15px;border: none !important;padding: 0px; padding-bottom: 2px;}
+.c-right{text-align: right;}
+.c-tr{border-bottom: 1px dotted #333;}
+.c-img{display: block;margin: 0px auto;margin-top: 6px;width: 40%;}
+.c-center{text-align: center;}
+.c-left{text-align: left;}
+
+.c-circulo {
+	width: 12px;
+	height: 12px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;	
+	float:left;
+	margin-top: 6px;
+	margin-right: 6px;
+}
+.c-color-blue{background: #2185d0;}
+.c-color-red{background: #db2828;}
+.c-color-yellow{background: #fbbd08;}
+.c-color-green{background: #21ba45;}

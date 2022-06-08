@@ -1,0 +1,173 @@
+# Copyright (C) 2022 Binary Lemon
+msgid ""
+msgstr ""
+"Project-Id-Version: precios-de-combustibles-nicaragua\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/widget.php:8
+msgid "Precios de los combustibles en Nicaragua. Información sobre el precio por litro de gasolina regular, gasolina súper, diesel y kerosene."
+msgstr ""
+
+#: includes/widget.php:10
+msgid "Tipo de cambio Nicaragua"
+msgstr ""
+
+#: includes/widget.php:47
+msgid "TIPO DE CAMBIO OFICIAL NICARAGUA"
+msgstr ""
+
+#: includes/widget.php:61
+msgid "HOY"
+msgstr ""
+
+#: includes/widget.php:68
+msgid "AYER"
+msgstr ""
+
+#: includes/widget.php:77
+msgid "MAÑANA"
+msgstr ""
+
+#: includes/widget.php:86
+msgid "PROMEDIO"
+msgstr ""
+
+#: includes/widget.php:97
+msgid "Fuente: Banco Central de Nicaragua"
+msgstr ""
+
+#: includes/widget.php:118
+msgid "Título"
+msgstr ""
+
+#: includes/widget.php:123
+msgid "Sub título"
+msgstr ""
+
+#: includes/widget.php:130
+msgid "Logo"
+msgstr ""
+
+#: includes/widget.php:133 
+#: includes/widget.php:148
+msgid "Habilitar"
+msgstr ""
+
+#: includes/widget.php:138
+#: includes/widget.php:153
+msgid "Deshabilitar"
+msgstr ""
+
+#: includes/widget.php:145
+msgid "Información detallada (ayer, mañana y promedio)"
+msgstr ""
+
+#: includes/widget.php:165
+msgid "ENE"
+msgstr ""
+
+#: includes/widget.php:166
+msgid "FEB"
+msgstr ""
+
+#: includes/widget.php:167
+msgid "MAR"
+msgstr ""
+
+#: includes/widget.php:168
+msgid "ABR"
+msgstr ""
+
+#: includes/widget.php:169
+msgid "MAY"
+msgstr ""
+
+#: includes/widget.php:170
+msgid "JUN"
+msgstr ""
+
+#: includes/widget.php:171
+msgid "JUL"
+msgstr ""
+
+#: includes/widget.php:172
+msgid "AGO"
+msgstr ""
+
+#: includes/widget.php:173
+msgid "SEP"
+msgstr ""
+
+#: includes/widget.php:174
+msgid "OCT"
+msgstr ""
+
+#: includes/widget.php:175
+msgid "NOV"
+msgstr ""
+
+#: includes/widget.php:176
+msgid "DIC"
+msgstr ""
+
+#: includes/widget.php:187
+msgid "Enero"
+msgstr ""
+
+#: includes/widget.php:188
+msgid "Febrero"
+msgstr ""
+
+#: includes/widget.php:189
+msgid "Marzo"
+msgstr ""
+
+#: includes/widget.php:190
+msgid "Abril"
+msgstr ""
+
+#: includes/widget.php:191
+msgid "Mayo"
+msgstr ""
+
+#: includes/widget.php:192
+msgid "Junio"
+msgstr ""
+
+#: includes/widget.php:193
+msgid "Julio"
+msgstr ""
+
+#: includes/widget.php:194
+msgid "Agosto"
+msgstr ""
+
+#: includes/widget.php:195
+msgid "Septiembre"
+msgstr ""
+
+#: includes/widget.php:196
+msgid "Octubre"
+msgstr ""
+
+#: includes/widget.php:197
+msgid "Noviembre"
+msgstr ""
+
+#: includes/widget.php:198
+msgid "Diciembre"
+msgstr ""
+
+#: includes/widget.php:199
+msgid "Mes"
+msgstr ""
